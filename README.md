@@ -10,5 +10,5 @@ que consegui concluir do que ficar de fora dessa oportunidade!
  ao executar, digitando o valorque deseja investir ira ter a quantidade de pessoas que ira visualizar seu anuncio, clicar, compartilhar, na sequencia pedida de
  ate 4 compartilhamentos.
  
- Na tabela coloqueia apenas os codigos, como dito acima fiquei confusa em relacao a algumas informacoes e comando. Faltou realizar a conexao entre o vscode e 
+ Na tabela coloquei apenas os codigos, como dito acima fiquei confusa em relacao a algumas informacoes e comando. Faltou realizar a conexao entre o vscode e 
  a mysql, criar a funcao e falta de testes.
